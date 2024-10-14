@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="945683fc-544d-4301-8f8d-8bcbd76aa8a2" name="Changes" comment="Added 1 more">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +28,12 @@
     &quot;assignee&quot;: &quot;PramodDutta&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PramodDutta/PyATB4xAPIAutoamtionFramework.git&quot;,
-    &quot;accountId&quot;: &quot;c24d73df-db27-47a4-81b1-38b9ef6ccae0&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Apurva2551/PyATB4xAPIAutoamtionFramework",
+    "accountId": "2214cdd2-494a-493f-bd36-54d0d590c885"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -95,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728915601012</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added 1 more">
+      <option name="closed" value="true" />
+      <created>1728915765053</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728915765054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
